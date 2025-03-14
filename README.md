@@ -17,7 +17,7 @@ This tutorial is designed for beginners and intermediate users who want to gain 
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.10 or higher
 - Jupyter Notebook or JupyterLab
 - Required libraries listed in `requirements.txt`:
   - numpy
